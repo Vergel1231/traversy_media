@@ -2,4 +2,5 @@
 
 Traversy Media tutorials
 
-1. Blurry Loading Page Project
+1. Blurry Loading
+2. Vertical Slider
